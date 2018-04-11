@@ -1,0 +1,29 @@
+/* Default hide video */
+video.video-stream {
+  opacity: 0 !important;
+}
+
+.ytp-cued-thumbnail-overlay-image {
+  opacity: 0;
+}
+
+.ytp-ce-covering-image {
+  opacity: 0;
+}
+
+/* Default hide thumbnail */
+ytd-thumbnail {
+  opacity: 0;
+}
+
+ytd-playlist-video-thumbnail-renderer {
+  opacity: 0;
+}
+
+.ytp-videowall-still-image {
+  opacity: 0;
+}
+
+.ytp-videowall-still-info-content {
+  opacity: 1 !important;
+}

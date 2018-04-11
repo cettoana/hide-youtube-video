@@ -1,0 +1,17 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "chrome": true
+  },
+  "extends": [
+    "eslint:recommended"
+  ],
+  "rules": {
+    "semi": ["error", "always"],
+    "comma-dangle": ["error", "always-multiline"],
+    "no-console": ["warn"]
+  }
+}

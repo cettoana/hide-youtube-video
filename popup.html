@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <style>
+        body {
+          font-family: monospace;
+          font-size: 16px;
+        }
+
+        button {
+          height: 24px;
+          width: 80px;
+          color: #FFF;
+          background-color: #00bcd4;
+          border: none;
+          border-radius: 2px;
+          font-size: 16px;
+          font-family: monospace;
+          letter-spacing: 2px;
+          outline:0;
+          cursor: pointer;
+        }
+
+        button.show {
+          background-color: rgb(229, 229, 229);
+          color: rgb(127, 127, 127);
+        }
+
+        label {
+          width: 120px;
+        }
+
+        .container {
+          padding: 0 5px;
+        }
+
+        .row {
+          padding: 8px 0;
+          display: flex;
+          align-items: center;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <h4>Options:</h4>
+        <div class="row">
+          <label for="btn-video">Video</label>
+          <button id="btn-video">HIDE</button>
+        </div>
+        <div class="row">
+          <label for="thumbnail">Thumbnail</label>
+          <button id="btn-thumbnail">HIDE</button>
+        </div>
+      </div>
+      <script src="dist/popup.js"></script>
+    </body>
+  </html>
