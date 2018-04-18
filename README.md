@@ -1,6 +1,9 @@
-# Hide YouTube™ Video Chrome Extension
+# Hide YouTube™ Video [![Chrome version][badge-cws]][link-cws]
 
-Play YouTube video with no video display.
+[badge-cws]: https://img.shields.io/chrome-web-store/v/lminokaobchppnocfchcjcenlmodehmi.svg?label=chrome
+[link-cws]: https://chrome.google.com/webstore/detail/hide-youtube-video/lminokaobchppnocfchcjcenlmodehmi
+
+Chrome extension for playing YouTube video with no video display.
 
 ## Install
 
