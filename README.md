@@ -1,6 +1,8 @@
-# Hide YouTube™ Video [![Chrome version][badge-cws]][link-cws]
+# Hide YouTube™ Video [![Version][badge-cws]][link-cws] [![User][badge-cws-user]][link-cws] [![Rating][badge-cws-rating]][link-cws]
 
-[badge-cws]: https://img.shields.io/chrome-web-store/v/lminokaobchppnocfchcjcenlmodehmi.svg?label=chrome
+[badge-cws]: https://img.shields.io/chrome-web-store/v/lminokaobchppnocfchcjcenlmodehmi.svg?label=chrome&style=flat-square
+[badge-cws-user]: https://img.shields.io/chrome-web-store/users/lminokaobchppnocfchcjcenlmodehmi.svg?style=flat-square
+[badge-cws-rating]: https://img.shields.io/chrome-web-store/rating/lminokaobchppnocfchcjcenlmodehmi.svg?style=flat-square
 [link-cws]: https://chrome.google.com/webstore/detail/hide-youtube-video/lminokaobchppnocfchcjcenlmodehmi
 
 Chrome extension for playing YouTube video with no video display.
